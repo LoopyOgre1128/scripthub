@@ -53,7 +53,7 @@ local desc3 = Instance.new("TextLabel")
 --Properties:
 
 YemanicasScriptHub.Name = "Yemanica's Script Hub"
-YemanicasScriptHub.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+YemanicasScriptHub.Parent = game.Players.LocalPlayer:WaitForChild("CoreGui")
 YemanicasScriptHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Toolbar.Name = "Toolbar"
